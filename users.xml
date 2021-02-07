@@ -1,1 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="0001">
+    <name>
+      <first>Katharine</first>
+      <last>Hughes</last>
+      <alias>N/A</alias>
+    </name>
+    <dateOfBirth>1960/12/30</dateOfBirth>
+    <role>Biological Pharmaceutical Coordinator</role>
+    <userType>Client</userType>
+  </user>
+  <user id="0002">
+    <name>
+      <first>Norman</first>
+      <last>Hughes</last>
+      <alias>N/A</alias>
+    </name>
+    <role>Vice President of Sales Development</role>
+    <dateOfBirth>1958/01/30</dateOfBirth>
+    <userType>Client</userType>
+  </user>
+  <user id="0003">
+    <name>
+      <first>Jessica</first>
+      <last>Hughes</last>
+      <alias>Sotoy</alias>
+    </name>
+    <role>Security Co-ordinator</role>
+    <dateOfBirth>1988/12/06</dateOfBirth>
+    <userType>Client</userType>
+  </user>
+  <user id="0004">
+    <name>
+      <first>Bryan</first>
+      <last>Hughes</last>
+      <alias>T. Durden</alias>
+    </name>
+    <dateOfBirth>1992/07/06</dateOfBirth>
+    <role>Data Specialist</role>
+    <userType>Support Staff</userType>
+  </user>
+  <user>
+    <id>0005</id>
+    <name>
+      <first>Joanna</first>
+      <last>Kommala</last>
+      <alias>NULL</alias>
+    </name>
+    <dateOfBirth>NULL</dateOfBirth>
+    <role>Professor</role>
+    <userType>Support Staff</userType>
+  </user>
+</users>
