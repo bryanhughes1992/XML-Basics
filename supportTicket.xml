@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<supportTicket>
+  <ticketNumber id="0001">
+    <dateIssued>2021/02/02</dateIssued>
+    <issue>
+      <userId>0004</userId> 
+      <subject>Computer Problems</subject>
+      <userMessage>My computer makes a fart noise every time I turn it on.</userMessage>
+      <adminMessage>I've ordered you a new computer.</adminMessage>
+      <resolved>True</resolved>
+      <dateResolved>2021/02/05</dateResolved>
+      <partsRequired>True</partsRequired>
+    </issue>
+  </ticketNumber>
+  <ticketNumber id="0002">
+    <dateIssued>2021/02/03</dateIssued>
+    <issue>
+      <userId>0001</userId>
+      <subject>Broken Printer</subject>
+      <userMessage>The printer is jammed with packing peanuts</userMessage>
+      <adminMessage>I've removed the packing peanuts</adminMessage>
+      <resolved>True</resolved>
+      <dateResolved>2021/02/06</dateResolved>
+      <partsRequired>False</partsRequired>
+    </issue>
+  </ticketNumber>
+  <ticketNumber id="0003">
+    <dateIssued>2021/02/02</dateIssued>
+    <issue>
+      <userId>0004</userId>
+      <subject>Hostile Work Envoirnment</subject>
+      <userMessage>Every time I log into my computer, it gives me the middle finger</userMessage>
+      <adminMessage>Just give it some time to cool off, message me if it resolves.</adminMessage>
+      <resolved>False</resolved>
+      <dateResolved>empty</dateResolved>
+      <partsRequired>False</partsRequired>
+    </issue>
+  </ticketNumber>
+</supportTicket>
