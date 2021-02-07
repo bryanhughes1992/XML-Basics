@@ -7,6 +7,7 @@
       <alias>N/A</alias>
     </name>
     <dateOfBirth>1960/12/30</dateOfBirth>
+    <dateOfHire>2019/01/02</dateOfHire>
     <role>Biological Pharmaceutical Coordinator</role>
     <userType>Client</userType>
   </user>
@@ -18,6 +19,7 @@
     </name>
     <role>Vice President of Sales Development</role>
     <dateOfBirth>1958/01/30</dateOfBirth>
+    <dateOfHire>2018/03/20</dateOfHire>
     <userType>Client</userType>
   </user>
   <user id="0003">
@@ -28,6 +30,7 @@
     </name>
     <role>Security Co-ordinator</role>
     <dateOfBirth>1988/12/06</dateOfBirth>
+    <dateOfHire>2021/01/01</dateOfHire>
     <userType>Client</userType>
   </user>
   <user id="0004">
@@ -37,17 +40,18 @@
       <alias>T. Durden</alias>
     </name>
     <dateOfBirth>1992/07/06</dateOfBirth>
+    <dateOfHire>2015/10/13</dateOfHire>
     <role>Data Specialist</role>
     <userType>Support Staff</userType>
   </user>
-  <user>
-    <id>0005</id>
+  <user id="0005">
     <name>
       <first>Joanna</first>
       <last>Kommala</last>
-      <alias>NULL</alias>
+      <alias>null</alias>
     </name>
-    <dateOfBirth>NULL</dateOfBirth>
+    <dateOfBirth>null</dateOfBirth>
+    <dateOfHire>2020/02/28</dateOfHire>
     <role>Professor</role>
     <userType>Support Staff</userType>
   </user>
